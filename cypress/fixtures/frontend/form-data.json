@@ -1,0 +1,13 @@
+{
+  "firstName": "Joel",
+  "lastName": "teste",
+  "email": "joelteste@example.com",
+  "gender": "Male",
+  "mobileNumber": "1183947362",
+  "subjects": "Arts",
+  "hobbies":"Sports",
+  "picturePath": "cypress/fixtures/files/file.txt",
+  "currentAddress": "Rua osvaldo freire, 78",
+  "state": "Haryana",
+  "city": "Karnal"
+}
